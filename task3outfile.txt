@@ -1,0 +1,4 @@
+Amanda 1
+Jessica 0
+John 2
+Sarah 1
